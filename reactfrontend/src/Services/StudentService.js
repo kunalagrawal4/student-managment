@@ -1,5 +1,5 @@
 import axios from 'axios';
-const Student_BASE_REST_APT_URL='https://student-managment-curd.herokuapp.com/api/vi/students';
+const Student_BASE_REST_APT_URL= #yourAPI;
 
 class StudentService {
     getAllStudents(){
