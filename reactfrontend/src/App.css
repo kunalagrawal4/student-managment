@@ -1,0 +1,22 @@
+.main{
+
+
+  min-height: 100%;
+
+}
+
+.bg-color{
+  background-color: #ee3131;
+}
+
+
+.footer {
+  
+  bottom:  0;
+  position: absolute;
+  width: 100%;
+  background-color: #CCCCFF;
+  text-align: center;
+  margin-top: auto;
+  height: 45px;
+}
