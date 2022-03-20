@@ -20,4 +20,4 @@ CURD APPLICATION
 
    -[Heroku](https://heroku.com/)
 ## Database hosting on AWS
-   -[RDS](https://aws.amazon.com)
+   -[RDS](https://aws.amazon.com/rds/)
